@@ -1,0 +1,22 @@
+[
+	"",
+	{"text": "Coke Kiln", "text_size": 5.0, "bold": true},
+	{"hr": 1},
+	{"text": "Creosote funnels can be used to collect creosote from charcoal pits and coke ovens. It will collect in a 9x9 plus(+) shape.", "text_size": 1.5, "bold": true},
+	{"text": "A line of them in the middle of the oven works.", "text_size": 1.5, "bold": true},
+	{"img": "creosote1.png"},
+	{"img": "creosote2.png"},
+	"",
+	{"text": "If you power one it will collect from nearby funnels in the same radius and output into pipes.", "text_size": 1.5, "bold": true},
+	{"text": "Buckets can also be used to collect it.", "text_size": 1.5, "bold": true},
+	{"img": "creosote3.png"},
+	{"img": "creosote4.png"},
+	"",
+	{"text": "It can be placed in world.", "text_size": 1.5, "bold": true},
+	{"text": "And it burns.", "text_size": 1.5, "bold": true},
+	{"img": "creosote5.png"},
+	{"img": "creosote6.png"},
+	"",
+	{"text": "It can be used as furnace fuel. It smelts 24 items.", "text_size": 1.5, "bold": true},
+	{"img": "creosote7.png"}
+]

@@ -1,0 +1,53 @@
+{
+	"title": "Stargazer",
+	"authors": ["Lanse505"],
+	"icon": "item:contenttweaker:resonantrise",
+	"pages": [
+		{
+			"id": "stargazer",
+			"title": "Stargazer",
+			"icon": "item:contenttweaker:resonantrise"
+		},
+		{
+			"id": "mods",
+			"title": "Mods",
+			"icon": "item:contenttweaker:skillable",
+			"pages": [
+				{
+					"id": "charcoalpits",
+					"title": "Charcoal Pits",
+					"icon": "item:charcoal_pit:log_pile",
+					"pages": [
+						{
+							"id": "charcoalpit",
+							"title": "Charcoal Pit",
+							"icon": "item:charcoal_pit:log_pile"
+						},
+						{
+							"id": "cokekiln",
+							"title": "Coke Kiln",
+							"icon": "item:charcoal_pit:item_coke",
+							"pages": [
+								{
+									"id": "cokekilnmaterials",
+									"title": "Valid Coke Kiln Materials",
+									"icon": "item:minecraft:brick_block"
+								},
+								{
+									"id": "creosoteoil",
+									"title": "Creosote Production",
+									"icon": "item:charcoal_pit:brick_creosote_collector"
+								}
+							]
+						},
+						{
+							"id": "potterykiln",
+							"title": "Pottery Kiln",
+							"icon": "item:charcoal_pit:clay_pot"
+						}
+					]
+				}
+			]
+		}
+	]
+}

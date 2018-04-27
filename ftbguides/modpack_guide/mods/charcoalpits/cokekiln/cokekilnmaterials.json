@@ -1,0 +1,8 @@
+[
+	"",
+	{"text": "Valid Coke Kiln Wall-Materials", "text_size": 1.5, "bold": true},
+	{"hr": 1},
+	{"text": "Valid List:", "text_size": 1.5, "bold": true},
+	{"text": "minecraft:brick_block  - Brick Blocks"},
+	{"text": "minecraft:nether_brick - Nether Bricks"}
+]
